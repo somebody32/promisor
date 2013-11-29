@@ -1,0 +1,22 @@
+{
+  "name": "promisor",
+  "version": "0.0.0",
+  "description": "My toy implementation of Promises/A+ spec",
+  "main": "promisor.js",
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests promisor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/somebody32/promisor.git"
+  },
+  "author": "Ilya Zayats",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/somebody32/promisor/issues"
+  },
+  "homepage": "https://github.com/somebody32/promisor"
+}
